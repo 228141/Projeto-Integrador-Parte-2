@@ -24,7 +24,7 @@
 ## Prototipação
 
 ### Visão geral
-![Protótipo visão geral](Prototipos/prototipo-geral.png)
+![Protótipo visão geral](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/a6155b4c-feaa-4d7d-8be8-849c77891b4b)
 
 ### Tela inicial de cadastro do usuário
 ![Tela inicial de cadastro do usuário](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/1d547b58-4595-4578-9220-ed2b39c56b85)
