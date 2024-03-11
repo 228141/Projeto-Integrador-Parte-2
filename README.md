@@ -39,4 +39,4 @@
 ![Protótipo de cadastro do fornecedor](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/67113ca9-edf1-4247-9afe-7d7ef08bb264)
 
 ### Tela de cadastro do fornecedor (parte 2)
-![Protótipo de cadastro do fornecedor](Prototipos/prototipo-fornecedor-2.png)
+![Protótipo de cadastro do fornecedor](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/ca2399e3-119c-4117-b5ac-a4fbfb4826c0)
