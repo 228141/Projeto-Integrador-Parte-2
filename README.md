@@ -16,7 +16,7 @@
   - Fornecedor
 
 ## Diagrama de caso de uso
- <img width="316" alt="Diagrama de caso de Uso" src="https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/4dce4964-2ca0-41d3-aabb-2cad735c7974"/>
+![Diagrama](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/17cc96f9-7df6-413e-afa5-bf553db12a9a)
 
 ## Modelo Entidade Relacionamento
 ![Modelo Entidade Relacionamento](Diagramas/mer.png)
