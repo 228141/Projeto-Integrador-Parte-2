@@ -33,7 +33,7 @@
 ![Protótipo de cadastro do aluno](Prototipos/prototipo-aluno.png)
 
 ### Tela de cadastro de professor
-![Protótipo de cadastro do professor](Prototipos/prototipo-professor.png)
+![Protótipo de cadastro do professor](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/618afe43-45d8-44d8-a3f9-82488e9012d6)
 
 ### Tela de cadastro do fornecedor (parte 1)
 ![Protótipo de cadastro do fornecedor](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/67113ca9-edf1-4247-9afe-7d7ef08bb264)
