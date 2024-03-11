@@ -27,7 +27,7 @@
 ![Protótipo visão geral](Prototipos/prototipo-geral.png)
 
 ### Tela inicial de cadastro do usuário
-![Tela inicial de cadastro do usuário](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/8806f7a9-e3a1-4b7a-9a0c-80884d1e68ff)
+![Tela inicial de cadastro do usuário](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/1d547b58-4595-4578-9220-ed2b39c56b85)
 
 ### Tela de cadastro de aluno
 ![Protótipo de cadastro do aluno](Prototipos/prototipo-aluno.png)
