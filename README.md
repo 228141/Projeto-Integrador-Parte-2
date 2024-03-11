@@ -19,7 +19,7 @@
 ![Diagrama](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/17cc96f9-7df6-413e-afa5-bf553db12a9a)
 
 ## Modelo Entidade Relacionamento
-![Modelo Entidade Relacionamento](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/21a28924-699f-4835-ba4c-5cca69df493b)
+![Modelo Entidade Relacionamento](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/2f276dd7-3d83-4372-be3d-ec08f082b649)
 
 ## Prototipação
 
