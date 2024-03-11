@@ -30,7 +30,7 @@
 ![Tela inicial de cadastro do usuário](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/1d547b58-4595-4578-9220-ed2b39c56b85)
 
 ### Tela de cadastro de aluno
-![Protótipo de cadastro do aluno](Prototipos/prototipo-aluno.png)
+![Protótipo de cadastro do aluno](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/fc7baec2-7cb8-4caf-8d5f-9733dc2b0a6b)
 
 ### Tela de cadastro de professor
 ![Protótipo de cadastro do professor](https://github.com/228141/Projeto-Integrador-Parte-2/assets/106827722/618afe43-45d8-44d8-a3f9-82488e9012d6)
